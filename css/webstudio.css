@@ -443,6 +443,7 @@
 
 .policy-link {
     color: var(--blue-text-button);
+    text-underline-position: under;
 }
 
 .checkbox {
