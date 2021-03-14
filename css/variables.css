@@ -29,6 +29,7 @@
     --border-form: rgba(33, 33, 33, 0.2);
     --form-text: rgba(117, 117, 117, 0.5);
     --modal-footer-text: rgba(75,75,75,1);
+    --modal-button-close: rgba(0, 0, 0, 0.1);
 
     --background-socialnets: rgba(255,255,255,0.1);
 }
