@@ -827,6 +827,7 @@
     margin-right: auto;
     display: flex;
     align-items: baseline;
+    justify-content: space-between;
 }
 
 .logo-footer {
